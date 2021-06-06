@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.6
-versionCode=7
-author=Zackptg5
-description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+id=sm-p600-wifi-fixer
+name=SM-P600 Wifi Fixer
+version=v1.0
+versionCode=1
+author=min050820
+description=Fix 5Ghz Wifi For SM-P600 (Intended For Use Within Korea Only)
+support=https://github.com/min050820/sm-p600-wifi-fixer/issues
