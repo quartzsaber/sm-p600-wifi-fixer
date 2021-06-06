@@ -7,3 +7,7 @@ META-INF/** text eol=lf
 
 # Denote all files that are truly binary and should not be modified.
 common/addon/**/tools/** binary
+
+# Use LF line endings for nvram_net.txt
+system/etc/wifi/nvram_net.txt text eol=lf
+common/nvram_net.canada.txt text eol=lf
