@@ -21,7 +21,7 @@
 이런 일은 없을거라고 생각하지만, 이 모듈을 설치해서 기기가 부팅 불가하게 될수도 있습니다.
 그런 경우를 대비해 가급정 내장 메모리에 Magisk를 삭제하는 zip파일을 넣어두세요.
 
-1. [https://github.com/min050820/sm-p600-wifi-fixer/releases/latest](릴리스 페이지)에서 최신 릴리즈를 다운로드 하세요. (sm-p600-wifi-fixer-module.zip 파일입니다)
+1. [릴리즈 페이지](https://github.com/min050820/sm-p600-wifi-fixer/releases/latest)에서 최신 릴리즈를 다운로드 하세요. (sm-p600-wifi-fixer-module.zip 파일입니다)
 2. Magisk 앱을 여세요.
 3. 필요하면 Magisk를 업데이트 하세요. "Magisk"와 "App" (혹은 "Manager") 모두 업데이트 해야합니다.
 4. 모듈 탭으로 가주세요. (아래에서 네번째 탭입니다)
